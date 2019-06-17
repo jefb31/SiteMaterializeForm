@@ -98,7 +98,7 @@ h1{
 @media screen and (max-width: 992px){
     
     .photosDG {
-    margin: 0;
+        margin-top: 0;
     }
 
     .troisImg{
@@ -131,4 +131,5 @@ h1{
 
     }
 
+    
     
